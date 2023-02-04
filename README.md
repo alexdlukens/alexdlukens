@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Alexander Lukens, currently an undergraduate electrical engineer studying at Illinois Institute of Technology in Chicago, IL.
-- 👀 I’m interested in Computer Architecture and VLSI Design. Also Web Design
-- 🌱 I’m currently learning about RISC-V, Scala, and Chisel HDL
-- 💞️ I’m looking to collaborate on implementing RISC-V Softcore processors on low cost FPGA boards
+- 👋 Hi, I’m Alexander Lukens, currently a software engineer working in NYC
+- 👀 I’m interested in Computer Architecture and VLSI Design. Also Web Design and AI
+- 🌱 I’m currently learning about RISC-V, Docker, and Vue 3
+- 💞️ I’m looking to collaborate on exciting problems in high performance program design
 - 📫 Reach me via my email alexdlukens@gmail.com
 
 <!---
