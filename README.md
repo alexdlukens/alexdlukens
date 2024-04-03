@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alexander Lukens, currently a software engineer working in NYC
-- 👀 I’m interested in Computer Architecture and VLSI Design. Also Web Design and AI
-- 🌱 I’m currently learning about RISC-V, Docker, and Vue 3
+- 👀 I’m interested in Computer Architecture and Distributed Computing. Also Web Design and AI
+- 🌱 I’m currently learning about DevOps, Docker, and Vue 3
 - 💞️ I’m looking to collaborate on exciting problems in high performance program design
 - 📫 Reach me via my email alexdlukens@gmail.com
 
